@@ -1,0 +1,37 @@
+                             MENU
+STARTERS                     COST(IN RUPEES)
+TANDOORI GRILLED PANEER      250 
+ASSORTED VEG GRILLED         320
+PALAK CHAAT                  180
+CUT FRUITS                   150
+CRISPY MASALA CORN           170
+MAIN COURSE MEAL 
+DAL MAKHANI                  340
+SHAHI PANEER                 390
+DAL TADKA                    280
+JEERA RICE                   300
+CHINESE NOODLES              280
+VEG FRIED RICE               330
+BREADS
+CLASSIC NAAN                 40
+BUTTER NAAN                  55
+TAWA ROTI                    35
+MISSI ROTI                   60
+LACHAA PARATHA               70
+ACCOMPANIMENTS 
+RAITA                        170
+CURD                         130
+PAPAD                        100
+PICKLE                       40
+INDIAN DESSERT
+RASOGULLA                    45
+GULAB JAMUN                  55
+GAJAR KA HALWA               105
+SHAHI TUKDA                  140
+PISTA KULFI                  95
+CONTINENTAL DESSERT
+BROWNIE                      70
+CHOCOLATE PASTRY             130
+MOUSSE                       120
+CHEF'S SPECIAL               170
+ 
